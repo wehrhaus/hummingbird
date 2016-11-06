@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/wehrhaus/hummingbird/issues"
   },
-  "homepage": "https://github.com/wehrhaus/hummingbird#readme"
+  "homepage": "https://github.com/wehrhaus/hummingbird#readme",
+  "dependencies": {
+    "passport-restify": "^1.0.1",
+    "restify": "^4.2.0"
+  }
 }
