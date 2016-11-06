@@ -1,0 +1,26 @@
+{
+  "name": "hummingbird",
+  "version": "0.0.1",
+  "description": "REST web service designed specifically for web interfaces designed to interact with Particle.io's Photon wi-fi module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wehrhaus/hummingbird.git"
+  },
+  "keywords": [
+    "particle.io",
+    "photon",
+    "restify",
+    "IoT",
+    "arduino"
+  ],
+  "author": "Justin Wehrman <jwehrman@wehr.haus>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wehrhaus/hummingbird/issues"
+  },
+  "homepage": "https://github.com/wehrhaus/hummingbird#readme"
+}
